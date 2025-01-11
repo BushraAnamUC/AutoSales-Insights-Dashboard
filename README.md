@@ -89,6 +89,7 @@ The dataset used in this project is artificially generated and contains the foll
 ---
 
 ## **Directory Structure**
+```
 Automobile-Sales-Dashboard/
 │
 ├── app.py                     # Main application script
@@ -100,8 +101,7 @@ Automobile-Sales-Dashboard/
 │   └── style.css              # Optional CSS for custom styling
 └── screenshots/
     └── dashboard_preview.png  # Screenshot of the dashboard (optional)
-
-
+```
 ---
 
 ## **Installation and Setup**
