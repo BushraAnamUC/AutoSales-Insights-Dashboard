@@ -107,8 +107,8 @@ Automobile-Sales-Dashboard/
        git clone <repository-link>
        cd Automobile-Sales-Dashboard
 2. Run the application:
-       ```bash
-          python app.py
+    ```bash
+     python app.py
 3. Open a web browser and navigate to:
      ```bash
      http://127.0.0.1:8050
