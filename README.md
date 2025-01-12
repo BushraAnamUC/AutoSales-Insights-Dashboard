@@ -6,7 +6,6 @@
 - [Key Features of the Dashboard](#key-features-of-the-dashboard)
   - [Yearly Automobile Sales Statistics](#yearly-automobile-sales-statistics)
   - [Recession Period Statistics](#recession-period-statistics)
-- [Technologies Used](#technologies-used)
 - [Dataset Details](#Dataset-Details)
 - [Project Detail](#Project-Detail)
 - [Directory Structure](#directory-structure)
@@ -16,13 +15,13 @@
 
 ---
 ## **Project Description**
-This project analyzes historical trends in automobile sales during recession periods. The objective is to provide insights into how sales of XYZAutomotives, a company specializing in automotive sales, were impacted during times of economic downturn.
+This project analyses historical trends in automobile sales during recession periods. The objective is to provide insights into how sales of XYZAutomotives, a company specialising in automotive sales, were impacted during times of economic downturn.
 
-Using **Dash** and **Plotly**, we created an interactive dashboard that visualizes key statistics related to:
+Using **Dash** and **Plotly**, we created an interactive dashboard that visualises key statistics related to:
 1. Yearly Automobile Sales Statistics.
 2. Recession Period Statistics.
 
-This dashboard demonstrates various visualization skills acquired in the project, including line charts, bar charts, and pie charts.
+This dashboard demonstrates various visualisation skills acquired in the project, including line charts, bar charts, and pie charts.
 
 ---
 
@@ -40,16 +39,6 @@ This dashboard demonstrates various visualization skills acquired in the project
 - **Average Vehicles Sold by Vehicle Type** (Bar Chart): Displays the average number of vehicles sold for each vehicle type during recession periods.
 - **Total Advertising Expenditure Share** (Pie Chart): Represents the share of advertising expenditure by vehicle type during recession periods.
 - **Effect of Unemployment Rate on Vehicle Sales** (Bar Chart): Shows the effect of unemployment rates on vehicle sales by type during recession periods.
-
----
-
-## **Technologies Used**
-
-### **Dash**
-Dash is a Python framework for creating interactive web applications. It is particularly effective for building analytical dashboards and enables easy integration of Python code with web-based interactivity. Dash provides components for building interactive charts, tables, and other UI elements.
-
-### **Plotly**
-Plotly is a data visualization library that supports a wide range of charts and graphs, including line charts, bar charts, scatter plots, and pie charts. It integrates seamlessly with Dash and allows for highly interactive visualizations.
 
 ---
 
@@ -79,9 +68,9 @@ The dataset used in this project is artificially generated and contains the foll
 2. **Dashboard Design**
    - Use **Dash** for layout and interactivity.
    - Use **Plotly** to create charts.
-   - Create callbacks for interactive visualizations.
+   - Create callbacks for interactive visualisations.
 
-3. **Visualizations**
+3. **Visualisations**
    - Line charts for yearly and monthly trends.
    - Bar charts for vehicle sales by type.
    - Pie charts for advertising expenditure.
@@ -119,7 +108,7 @@ Automobile-Sales-Dashboard/
        cd Automobile-Sales-Dashboard
 2. Run the application:
        ```bash
-         python app.py
+          python app.py
 3. Open a web browser and navigate to:
      ```bash
      http://127.0.0.1:8050
