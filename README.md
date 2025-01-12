@@ -89,7 +89,15 @@ Automobile-Sales-Dashboard/
 ├── assets/
 │   └── style.css              # Optional CSS for custom styling
 └── screenshots/
-    └── dashboard_preview.png  # Screenshot of the dashboard (optional)
+    └── dashboard_preview_YearlyReoetgraphs.png  # Screenshot of the dashboard (optional)
+    └── dashboard_preview_RecessionReportgraphs.png
+    └── Line_plot_1.png
+    └── Line_plot_2.png
+    └── Line_plot_3.png
+    └── Pie_chart_1.png
+    └── Pie_chart_2.png
+    └── Bubble_chart.png
+    └── Scatter_plot.png
 ```
 ---
 
@@ -104,14 +112,14 @@ Automobile-Sales-Dashboard/
 
 1. Clone the repository:
     ```bash
-       git clone <repository-link>
-       cd Automobile-Sales-Dashboard
+    git clone <repository-link>
+    cd Automobile-Sales-Dashboard
 2. Run the application:
     ```bash
-     python app.py
+    python app.py
 3. Open a web browser and navigate to:
      ```bash
-     http://127.0.0.1:8050
+    http://127.0.0.1:8050
 
 
 ## **Future Enhancements**
