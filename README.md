@@ -86,10 +86,8 @@ Automobile-Sales-Dashboard/
 ├── README.md                  # Project description
 ├── data/
 │   └── automobile_sales.csv   # Dataset file
-├── assets/
-│   └── style.css              # Optional CSS for custom styling
-└── screenshots/
-    └── dashboard_preview_YearlyReoetgraphs.png  # Screenshot of the dashboard (optional)
+└── Output /               # Graphs and Charts
+    └── dashboard_preview_YearlyReoetgraphs.png 
     └── dashboard_preview_RecessionReportgraphs.png
     └── Line_plot_1.png
     └── Line_plot_2.png
